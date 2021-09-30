@@ -44,7 +44,6 @@ Revised June 15 for defaultfloat hack for older GCCs
 #include <regex>
 #include<random>
 #include<stdexcept>
-#include "Matrix.h"
 
 //------------------------------------------------------------------------------
 #if __GNUC__ && __GNUC__ < 5
